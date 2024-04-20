@@ -21,9 +21,10 @@ import TermAndConditions from './Pages/TermAndConditions';
 import SingleProducts from './Pages/SingleProducts';
 import Cart from './Pages/Cart';
 import Checkout from './Pages/Checkout';
+
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/E-commerce">
       <Routes>
         <Route path='/' element={<Layout />}>
           <Route index element={<Home/>} />
@@ -52,4 +53,3 @@ function App() {
 }
 
 export default App;
-
