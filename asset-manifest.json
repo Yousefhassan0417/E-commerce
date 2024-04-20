@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-commerce/static/css/main.e308c00f.css",
-    "main.js": "/E-commerce/static/js/main.eb7b4906.js",
+    "main.js": "/E-commerce/static/js/main.03274e4f.js",
     "static/media/watch-2.jpg": "/E-commerce/static/media/watch-2.c55f4270ae91ebfed127.jpg",
     "static/media/famous-3.webp.png": "/E-commerce/static/media/famous-3.webp.12821e834b1e7edee939.png",
     "static/media/main-banner-1.jpg": "/E-commerce/static/media/main-banner-1.e4ca3797700ec9ea33e5.jpg",
@@ -31,10 +31,10 @@
     "static/media/user.svg": "/E-commerce/static/media/user.cd86e0566bbf017c8167249084d368e3.svg",
     "static/media/cross.svg": "/E-commerce/static/media/cross.bf9c2c127cb9cecabfe621ba624f3814.svg",
     "main.e308c00f.css.map": "/E-commerce/static/css/main.e308c00f.css.map",
-    "main.eb7b4906.js.map": "/E-commerce/static/js/main.eb7b4906.js.map"
+    "main.03274e4f.js.map": "/E-commerce/static/js/main.03274e4f.js.map"
   },
   "entrypoints": [
     "static/css/main.e308c00f.css",
-    "static/js/main.eb7b4906.js"
+    "static/js/main.03274e4f.js"
   ]
 }
